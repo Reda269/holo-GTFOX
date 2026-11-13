@@ -1,0 +1,8 @@
+{
+  "name": "ما خفي أعظم",
+  "description": "لعبة مغامرات بكسل آرت تعاونية في كهوف طاسيلي الأثرية بين صديقين أونلاين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
